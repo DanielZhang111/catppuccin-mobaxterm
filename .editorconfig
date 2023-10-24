@@ -3,7 +3,7 @@
 # EditorConfig is awesome: https://EditorConfig.org
 
 root = true
-
+# example
 [*]
 charset = utf-8
 indent_size = 2
